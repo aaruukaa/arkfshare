@@ -4,7 +4,7 @@ Repo 4 forceshubs
 <img src="https://telegra.ph/file/c45b4f24c8200484280b5.png">
 
 
-### Setup Join 3 Ch ini ngentod
+### Setup Join 3 Ch
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
